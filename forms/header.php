@@ -64,12 +64,8 @@
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
-        <a class="cta-btn d-none d-sm-block" href="#appointment">Make an Appointment</a>
+        <a class="cta-btn d-none d-sm-block" href="services.php">Make an Appointment</a>
       </div>
     </div>
-<<<<<<< Updated upstream
-    Ram Manohar Lohiya Hospital
-=======
-    Dr Ram Manohar Lohiya Hospital
->>>>>>> Stashed changes
+    Ram Manohar Lohiya Hospital Kaddora Noida
   </header>
