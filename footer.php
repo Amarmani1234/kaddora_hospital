@@ -3,6 +3,7 @@
     <div class="container footer-top">
       <div class="row gy-4">
         <div class="col-lg-4 col-md-6 footer-about">
+          <span>Stay Tunned! </span>
           <a href="index.html" class="logo d-flex align-items-center">
             <span class="sitename">Kaddora</span>
           </a>
