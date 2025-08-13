@@ -67,9 +67,6 @@
         <a class="cta-btn d-none d-sm-block" href="#appointment">Make an Appointment</a>
       </div>
     </div>
-<<<<<<< Updated upstream
     Ram Manohar Lohiya Hospital
-=======
     Dr Ram Manohar Lohiya Hospital
->>>>>>> Stashed changes
   </header>
