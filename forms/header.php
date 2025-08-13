@@ -67,10 +67,5 @@
         <a class="cta-btn d-none d-sm-block" href="services.php">Make an Appointment</a>
       </div>
     </div>
-<<<<<<< HEAD
-    Ram Manohar Lohiya Hospital Kaddora Noida
-=======
-    Ram Manohar Lohiya Hospital
-    Dr Ram Manohar Lohiya Hospital
->>>>>>> 2d61c751ebe81271c29e050f9665138fab7bef05
+    Dr Ram Manohar Lohiya Hospital  Kaddora Noida Main
   </header>
