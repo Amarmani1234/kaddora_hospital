@@ -64,9 +64,8 @@
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
-        <a class="cta-btn d-none d-sm-block" href="#appointment">Make an Appointment</a>
+        <a class="cta-btn d-none d-sm-block" href="services.php">Make an Appointment</a>
       </div>
-      djdfdhfdjfhj
     </div>
-    kaddora hospital
+    Dr Ram Manohar Lohiya Hospital  Kaddora Noida Main
   </header>
